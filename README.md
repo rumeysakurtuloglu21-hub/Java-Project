@@ -1,7 +1,6 @@
 # Java Projects Collection
 This repository contains a collection of my Java projects developed throughout my learning 
 
-- journey as a Computer Engineering student.
 - The projects in this repository focus on:
 - Object-Oriented Programming (OOP)
 - Console-based applications
@@ -14,7 +13,6 @@ This repository contains a collection of my Java projects developed throughout m
 Each project is organized in its own folder and includes:
 
 - Source code files (.java)
-- A separate README file (if needed)
 - Clear class structure and comments
 
 ### Purpose
